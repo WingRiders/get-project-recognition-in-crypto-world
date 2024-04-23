@@ -1,6 +1,6 @@
 <p align="center"><img src="./.assets/wingriders_logo.png" /></p>
 
-# Guide to Getting Your Project Recognized in the Tier1 Crypto World
+# Guide to Getting Your Project Recognized in the Tier 1 Crypto World
 
 Comprehensive public guide to help brand new protocols and DApps or utility tokens to become recognized, legitimized, and listed on tier 1 platforms.
 
@@ -28,7 +28,7 @@ The project is centered around two main goals:
 
 ## Development Roadmap
 - [ ] Guide for registering crypto projects on tier 1 crypto platforms
-  - [ ] Introduction
+  - [x] Introduction
   - [ ] CoinMarketCap registration
   - [ ] CoinGecko registration
   - [ ] DeFiLlama registration
