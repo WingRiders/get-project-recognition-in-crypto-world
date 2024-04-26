@@ -29,7 +29,7 @@ The project is centered around two main goals:
 ## Development Roadmap
 - [ ] Guide for registering crypto projects on tier 1 crypto platforms
   - [x] Introduction
-  - [ ] CoinMarketCap registration
+  - [x] CoinMarketCap registration
   - [ ] CoinGecko registration
   - [ ] DeFiLlama registration
 - [ ] Guide for Cardano-specific registries and integrations with prominent Cardano DEXes

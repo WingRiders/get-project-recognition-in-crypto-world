@@ -17,7 +17,7 @@ Registration of tokens and protocols on tier 1 crypto platforms is an important 
 
 [CoinMarketCap](https://coinmarketcap.com/) is one of the most popular price-tracking crypto platforms created in 2013. On this platform you can find prices, trade volumes, market capitalization of a large number of crypto-assets. CoinMarketCap also provides historical data, exchange rates and information about the markets where you can buy a specific currency. In addition to direct information about crypto-assets, the platform presents news and useful articles about the crypto world.
 
-**[CoinMarketCap Registration Guide](./RegisterOnCoinMarketCap.md)**
+**[CoinMarketCap Registration Guide](./coin-market-cap/README.md)**
 
 ### CoinGecko
 

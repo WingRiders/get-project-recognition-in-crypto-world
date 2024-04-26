@@ -28,6 +28,20 @@ After registration, you can apply to list your crypto-asset on CoinMarketCap. To
 
 Detailed instructions for filling out the form for adding a new crypto-asset can be found on the [Asset Registration page](./AssetRegistration.md).
 
+## Exchange registration
+
+To apply for adding a new exchange to the CoinMarketCap, you need to fill out a special form, which can be accessed in one of two ways.
+
+- Log in on the [CoinMarketCap Support platform](https://support.coinmarketcap.com/), click the "Submit a request" button and find in the drop-down list the "Add exchange" option.
+
+<p align="center"><img src="./.assets/access_to_add_exchange_form1.png" alt="Add crypto-asset form on the CMC support platform" style="width: 400px"/></p>
+
+- Go on the [CoinMarketCap website](https://coinmarketcap.com/), click the "Get listed" button in the top-right corner and select the "Exchange" option.
+
+<p align="center"><img src="./.assets/access_to_add_exchange_form2.png" alt="Add crypto-asset form on the CMC support platform" style="width: 500px"/></p>
+
+Detailed instructions for filling out the form for adding a new exchange can be found on the [Exchange Registration page](./ExchangeRegistration.md).
+
 ## Approval Process
 
 After submitting the registration form, wait for the CoinMarketCap team to review and approve your submission. 
