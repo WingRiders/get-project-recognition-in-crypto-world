@@ -1,1 +1,0 @@
-# CoinMarketCap Registration Guide

@@ -15,10 +15,10 @@ The project is centered around two main goals:
 ## Guide Structure
 1. Guides for registering crypto projects on tier 1 crypto platforms
     - [Introduction](./tier1-crypto-platforms/README.md)
-    - [CoinMarketCap registration](./tier1-crypto-platforms/RegisterOnCoinMarketCap.md)
+    - [CoinMarketCap registration](./tier1-crypto-platforms/coin-market-cap/README.md)
     - [CoinGecko registration](./tier1-crypto-platforms/RegisterOnCoinGecko.md)
     - [DeFiLlama registration](./tier1-crypto-platforms/RegisterOnDeFiLlama.md)
-1. Guides for Cardano-specific registries and integrations with prominent Cardano DEXes
+2. Guides for Cardano-specific registries and integrations with prominent Cardano DEXes
     - [Introduction](./registries-and-dexes/README.md)
     - [Adding token metadata to the Cardano metadata registry](./registries-and-dexes/AddTokenToCardanoMetadataRegistry.md)
     - [Plutus script verification on Cardanoscan](./registries-and-dexes/VerifyScriptOnCardanoscan.md)
