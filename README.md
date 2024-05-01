@@ -27,11 +27,11 @@ The project is centered around two main goals:
     - [Verifying tokens on prominent Cardano DEXes](./registries-and-dexes/VerifyTokenOnCardanoDEXes.md)
 
 ## Development Roadmap
-- [ ] Guide for registering crypto projects on tier 1 crypto platforms
+- [x] Guide for registering crypto projects on tier 1 crypto platforms
   - [x] Introduction
   - [x] CoinMarketCap registration
   - [x] CoinGecko registration
-  - [ ] DeFiLlama registration
+  - [x] DeFiLlama registration
 - [ ] Guide for Cardano-specific registries and integrations with prominent Cardano DEXes
   - [ ] Introduction
   - [ ] Adding token metadata to the Cardano metadata registry

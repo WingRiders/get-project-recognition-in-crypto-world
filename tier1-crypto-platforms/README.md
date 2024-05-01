@@ -29,4 +29,4 @@ Registration of tokens and protocols on tier 1 crypto platforms is an important 
 
 [DeFiLlama](https://defillama.com/) is the leading Total Value Locked (TVL) aggregator in the DeFi (Decentralized Finance) space. Launched in 2020, the platform provides comprehensive tools for monitoring liquidity, yields, and key metrics across a range of DeFi platforms. Committed to accuracy and transparency, DeFiLlama sources its data from multiple DeFi protocols and blockchain endpoints. All data on DeFiLlama is freely accessible and open-source, ensuring a transparent and reliable information ecosystem for users.
 
-**[DeFiLlama Registration Guide](./RegisterOnDeFiLlama.md)**
+**[DeFiLlama Registration Guide](./defillama/README.md)**

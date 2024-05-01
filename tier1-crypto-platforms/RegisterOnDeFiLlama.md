@@ -1,1 +1,0 @@
-# DeFiLlama Registration Guide
