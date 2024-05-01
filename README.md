@@ -17,7 +17,7 @@ The project is centered around two main goals:
     - [Introduction](./tier1-crypto-platforms/README.md)
     - [CoinMarketCap registration](./tier1-crypto-platforms/coin-market-cap/README.md)
     - [CoinGecko registration](./tier1-crypto-platforms/coin-gecko/README.md)
-    - [DeFiLlama registration](./tier1-crypto-platforms/RegisterOnDeFiLlama.md)
+    - [DeFiLlama registration](./tier1-crypto-platforms/defillama/README.md)
 2. Guides for Cardano-specific registries and integrations with prominent Cardano DEXes
     - [Introduction](./registries-and-dexes/README.md)
     - [Adding token metadata to the Cardano metadata registry](./registries-and-dexes/AddTokenToCardanoMetadataRegistry.md)
