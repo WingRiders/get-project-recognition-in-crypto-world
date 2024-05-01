@@ -1,1 +1,0 @@
-# CoinGecko Registration Guide
