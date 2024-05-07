@@ -48,7 +48,7 @@ After you have created a fork of the repository, you need to prepare a directory
     Use the `git clone` command to clone the forked repository on your machine.
 
     ```console
-    git clone https://github.com/WingRiders/DefiLlama-Adapters.git
+    git clone {link-to-your-forked-repository}
     cd ./DefiLlama-Adapters 
     ```
 

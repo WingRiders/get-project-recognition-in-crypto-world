@@ -1,6 +1,6 @@
 # Asset Registration On CoinMarketCap
 
-The process of registering an asset on CoinMarketCap involves filling out a special form. In this guide, you can find detailed information for filling it out.
+The process of registering an asset on CoinMarketCap (CMC) involves filling out a special form. In this guide, you can find detailed information for filling it out.
 
 ## Prerequisites
 
@@ -20,7 +20,7 @@ Before filling out the form, we recommend that you ensure that you have all the 
 | Smart Contract | Mostly mandatory | Information about your token smart contract. For details check [platform](#contract-platform), [address](#contract-address), [decimals](#contract-number-of-decimals), [links to block explorers](#block-explorers). |
 | Whitepaper Link | Optional | Link to your whitepaper (document that summarizes the information on your project). |
 | Community | Mostly optional | Links to your pages, channels and publications in Twitter (X), Telegram, Facebook, Youtube, etc. For details, check [the Social and Media section](#social-and-media). |
-| ICO/IEO Information | Optional | ICO/IEO start date, end date and launch price. |
+| ICO/IEO Information | Optional | Initial coin offering (ICO) or initial exchange offering (IEO) start date, end date and launch price. |
 | Token Supply | Mandatory | Information about your token supply (total, maximum, circulating) |
 | API for Providing Token Supply | Optional | Links to API-endpoints that return total and circulating supply of your token. <br><br> Check [the Annex A sheet](https://docs.google.com/spreadsheets/d/1ON2o9fZtdj6aa_uaT7ALtGx1VxFnIDUi8-uS-fWji0o/edit#gid=1181839735). This document must be completed if you want the integration with CoinMarketCap to automatically provide information about your token supply. |
 
@@ -212,7 +212,7 @@ This section describes all fields of the form.
 
     In the "Are you willing to provide (dofollow) linkbacks to CMC?" field, select "yes" if you are willing to include a dofollow link back to CoinMarketCap from your website or platform.
      
-    A dofollow link is a type of hyperlink that passes SEO (Search Engine Optimization) authority or "link juice" from the referring page to the linked page. Providing a dofollow linkback means you agree to link back to CoinMarketCap's website from your crypto-asset's official website or platform. By agreeing to provide a dofollow linkback to CoinMarketCap, you are helping to improve the visibility and SEO ranking of CoinMarketCap, which can be beneficial for both sides.
+    A dofollow link is a type of hyperlink that passes Search Engine Optimization (SEO) authority or "link juice" from the referring page to the linked page. Providing a dofollow linkback means you agree to link back to CoinMarketCap's website from your crypto-asset's official website or platform. By agreeing to provide a dofollow linkback to CoinMarketCap, you are helping to improve the visibility and SEO ranking of CoinMarketCap, which can be beneficial for both sides.
 
 35. **Integration with CoinMarketCap Telegram bot**
 
@@ -228,7 +228,7 @@ This section describes all fields of the form.
 
 38. **SRD Application**
 
-    CoinMarketCap provides a self-reporting dashboard that allows you to manage certain fields on your crypto-asset detail pages after this application is complete. By checking this box you indicate you agree to sign up for the self-reporting dashboard. The CoinMarketCap guide for signing up for. You can find more information about CoinMarketCap self-reporting dashboard in [this presentation](https://docs.google.com/presentation/d/1p0-EjHE4ELpLZ8kwzP855L5x3uq941oUpCfIYSraa0g/edit#slide=id.g8830a96fa9_0_1849).
+    CoinMarketCap provides a self-reporting dashboard (SRD) that allows you to manage certain fields on your crypto-asset detail pages after this application is complete. By checking this box you indicate you agree to sign up for the self-reporting dashboard. The CoinMarketCap guide for signing up for. You can find more information about CoinMarketCap self-reporting dashboard in [this presentation](https://docs.google.com/presentation/d/1p0-EjHE4ELpLZ8kwzP855L5x3uq941oUpCfIYSraa0g/edit#slide=id.g8830a96fa9_0_1849).
 
 39. **Public verification post**
 

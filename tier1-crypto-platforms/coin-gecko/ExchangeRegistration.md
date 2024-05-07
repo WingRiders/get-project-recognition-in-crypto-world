@@ -161,7 +161,7 @@ Let's look at filling out all fields of the application form.
 
     In the "Would you be able to provide backlinks to CoinGecko?" field, select "yes" if you are willing to include backlinks to CoinGecko from your website or platform.
 
-    Backlink is a type of hyperlink that passes SEO (Search Engine Optimization) authority or "link juice" from the referring page to the linked page. Providing backlinks means you agree to link back to CoinGecko's website from your official website or platform. By agreeing to provide backlinks to CoinGecko, you are helping to improve the visibility and SEO ranking of CoinGecko, which can be beneficial for both sides.
+    Backlink is a type of hyperlink that passes Search Engine Optimization (SEO) authority or "link juice" from the referring page to the linked page. Providing backlinks means you agree to link back to CoinGecko's website from your official website or platform. By agreeing to provide backlinks to CoinGecko, you are helping to improve the visibility and SEO ranking of CoinGecko, which can be beneficial for both sides.
 
 22. **Contract Specification Information**
 

@@ -1,6 +1,6 @@
 # Exchange Registration On CoinMarketCap
 
-The process of registering an exchange on CoinMarketCap involves filling out a special form. In this guide, you can find detailed information for filling it out.
+The process of registering an exchange on CoinMarketCap (CMC) involves filling out a special form. In this guide, you can find detailed information for filling it out.
 
 ## Prerequisites
 
@@ -225,7 +225,7 @@ This section describes all fields of the form.
 
     In the "Are you willing to provide (dofollow) linkbacks to CMC?" field, select "yes" if you are willing to include a dofollow link back to CoinMarketCap from your website or platform.
      
-    A dofollow link is a type of hyperlink that passes SEO (Search Engine Optimization) authority or "link juice" from the referring page to the linked page. Providing a dofollow linkback means you agree to link back to CoinMarketCap's website from your exchange's official website or platform. By agreeing to provide a dofollow linkback to CoinMarketCap, you are helping to improve the visibility and SEO ranking of CoinMarketCap, which can be beneficial for both sides.
+    A dofollow link is a type of hyperlink that passes Search Engine Optimization (SEO) authority or "link juice" from the referring page to the linked page. Providing a dofollow linkback means you agree to link back to CoinMarketCap's website from your exchange's official website or platform. By agreeing to provide a dofollow linkback to CoinMarketCap, you are helping to improve the visibility and SEO ranking of CoinMarketCap, which can be beneficial for both sides.
 
 40. **Integration with CoinMarketCap Telegram bot**
 
