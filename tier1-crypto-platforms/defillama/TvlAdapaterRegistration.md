@@ -47,8 +47,10 @@ After you have created a fork of the repository, you need to prepare a directory
 
     Use the `git clone` command to clone the forked repository on your machine.
 
+    Example commands for cloning the forked DeFiLlama adapters repository in the WinRiders organization:
+
     ```console
-    git clone {link-to-your-forked-repository}
+    git clone https://github.com/WingRiders/DefiLlama-Adapters.git
     cd ./DefiLlama-Adapters 
     ```
 
@@ -171,7 +173,9 @@ To test your adapter, go to the repository directory and follow these steps.
     node test.js projects/{your_project}/index.js`.
     ```
 
-If the adapter runs successfully, the console will show you a breakdown of your project's TVL in USD. For the WingRiders adapter, it looks like:
+If the adapter runs successfully, the console will show you a breakdown of your project's TVL in USD.
+
+Here's a breakdown of the WingRiders' TVL:
 
 ```console
 --- cardano ---
@@ -197,6 +201,8 @@ staking                   548.45 k
 
 total                    10.75 M 
 ```
+
+In the console output, the implemented adapter returns that WingRiders' total TVL is $10.75M, which is the correct value.
 
 Carefully check your values and if they look accurate, you're ready to create a pull request.
 

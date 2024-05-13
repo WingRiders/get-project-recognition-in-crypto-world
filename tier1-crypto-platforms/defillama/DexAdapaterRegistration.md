@@ -46,8 +46,10 @@ After you have created a fork of the repository, you need to prepare a directory
 
     Use the `git clone` command to clone the forked repository on your machine.
 
+    Example commands for cloning the forked DeFiLlama dimension-adapters repository in the WinRiders organization:
+
     ```console
-    git clone {link-to-your-forked-repository}
+    git clone https://github.com/WingRiders/dimension-adapters.git
     cd ./dimension-adapters
     ```
 
@@ -161,7 +163,9 @@ To test your adapter, go to the repository directory and follow these steps.
 
     Timestamp is an option parameter.
 
-If the adapter runs successfully, the console will show your DEX daily volume. For the WingRiders DEX dimension-adapter, it looks like:
+If the adapter runs successfully, the console will show your DEX daily volume.
+
+Here's WingRiders daily volume, as of April 26, 2024:
 
 ```console
 🦙 Running WINGRIDERS adapter 🦙
@@ -174,6 +178,8 @@ Timestamp: 1714175999 (2024-04-26T23:59:59.000Z)
 
 ✨  Done in 3.22s.
 ```
+
+In the console output, the implemented dimension-adapter returns that WingRiders daily volume as of April 26, 2024 is $173.27K, which is the correct value.
 
 Carefully check your values and if they look accurate, you're ready to create a pull request.
 
