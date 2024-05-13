@@ -61,12 +61,12 @@ After you have created a fork of the repository, you need to prepare a directory
     mkdir ./dexs/wingriders/
     ```
 
-3. **Add index.js file in your project folder.**
+3. **Add index.ts file in your project folder.**
 
-    In your project folder, create an empty file `index.js`:
+    In your project folder, create an empty file `index.ts`:
 
     ```console
-    touch ./dexs/wingriders/index.js
+    touch ./dexs/wingriders/index.ts
     ```
 
 ### Implementing DEX dimension-adapter
