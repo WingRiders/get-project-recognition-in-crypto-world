@@ -170,7 +170,7 @@ To test your adapter, go to the repository directory and follow these steps.
     To run tests, use the command:
 
     ```console
-    node test.js projects/{your_project}/index.js`.
+    node test.js projects/{your_project}/index.js
     ```
 
 If the adapter runs successfully, the console will show you a breakdown of your project's TVL in USD.
