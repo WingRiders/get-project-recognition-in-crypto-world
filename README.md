@@ -33,7 +33,7 @@ The project is centered around two main goals:
   - [x] CoinGecko registration
   - [x] DeFiLlama registration
 - [ ] Guide for Cardano-specific registries and integrations with prominent Cardano DEXes
-  - [ ] Introduction
+  - [x] Introduction
   - [ ] Adding token metadata to the Cardano metadata registry
   - [ ] Plutus script verification on Cardanoscan
   - [ ] Plutus script verification on Cexplorer
