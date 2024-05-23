@@ -14,7 +14,7 @@ Token issuers utilize the Cardano token registry to encode and store metadata ab
 
 Registering on the Cardano token registry offers numerous benefits, including increased visibility, enhanced interoperability, trust and credibility, accessibility, and compliance. By leveraging the registry, token issuers can effectively promote their tokens, foster ecosystem growth, and contribute to the long-term success of the Cardano blockchain.
 
-Detailed instructions on how to register your token with the Cardano token registry can be found on [this page](./AddTokenToCardanoMetadataRegistry.md).
+Detailed instructions on how to register your token with the Cardano token registry can be found on [this page](./cardano-token-registry/README.md).
 
 ### Cardanoscan
 

@@ -20,7 +20,7 @@ The project is centered around two main goals:
     - [DeFiLlama registration](./tier1-crypto-platforms/defillama/README.md)
 2. Guides for Cardano-specific registries and integrations with prominent Cardano DEXes
     - [Introduction](./registries-and-dexes/README.md)
-    - [Adding token metadata to the Cardano metadata registry](./registries-and-dexes/AddTokenToCardanoMetadataRegistry.md)
+    - [Adding token metadata to the Cardano metadata registry](./registries-and-dexes/cardano-token-registry/README.md)
     - [Plutus script verification on Cardanoscan](./registries-and-dexes/VerifyScriptOnCardanoscan.md)
     - [Plutus script verification on Cexplorer](./registries-and-dexes/VerifyScriptOnCexplorer.md)
     - [Opening pools and farms on prominent Cardano DEXes](./registries-and-dexes/OpenPoolsAndFarmsOnCardanoDEXes.md)
@@ -34,7 +34,7 @@ The project is centered around two main goals:
   - [x] DeFiLlama registration
 - [ ] Guide for Cardano-specific registries and integrations with prominent Cardano DEXes
   - [x] Introduction
-  - [ ] Adding token metadata to the Cardano metadata registry
+  - [x] Adding token metadata to the Cardano metadata registry
   - [ ] Plutus script verification on Cardanoscan
   - [ ] Plutus script verification on Cexplorer
   - [ ] Opening pools and farms on prominent Cardano DEXes
