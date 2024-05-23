@@ -21,8 +21,7 @@ The project is centered around two main goals:
 2. Guides for Cardano-specific registries and integrations with prominent Cardano DEXes
     - [Introduction](./registries-and-dexes/README.md)
     - [Adding token metadata to the Cardano metadata registry](./registries-and-dexes/cardano-token-registry/README.md)
-    - [Plutus script verification on Cardanoscan](./registries-and-dexes/VerifyScriptOnCardanoscan.md)
-    - [Plutus script verification on Cexplorer](./registries-and-dexes/VerifyScriptOnCexplorer.md)
+    - [Plutus script verification on Cardanoscan and Cexplorer](./registries-and-dexes/explorers/README.md)
     - [Opening pools and farms on prominent Cardano DEXes](./registries-and-dexes/OpenPoolsAndFarmsOnCardanoDEXes.md)
     - [Verifying tokens on prominent Cardano DEXes](./registries-and-dexes/VerifyTokenOnCardanoDEXes.md)
 
@@ -35,8 +34,8 @@ The project is centered around two main goals:
 - [ ] Guide for Cardano-specific registries and integrations with prominent Cardano DEXes
   - [x] Introduction
   - [x] Adding token metadata to the Cardano metadata registry
-  - [ ] Plutus script verification on Cardanoscan
-  - [ ] Plutus script verification on Cexplorer
+  - [x] Plutus script verification on Cardanoscan
+  - [x] Plutus script verification on Cexplorer
   - [ ] Opening pools and farms on prominent Cardano DEXes
   - [ ] Verifying tokens on prominent Cardano DEXes
 - [ ] Guide Publishing and Marketing

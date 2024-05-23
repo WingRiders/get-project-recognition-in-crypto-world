@@ -24,7 +24,7 @@ At its core, Cardanoscan offers a user-friendly interface that allows users to e
 
 One notable feature of Cardanoscan is its support for smart contract verification. By utilizing Cardanoscan's smart contract verification service, developers can submit their Plutus scripts for verification. Verified smart contracts inspire confidence among users and promote adoption by demonstrating their integrity and reliability.
 
-Detailed instructions on how to verify your smart contract script on Cardanoscan can be found on [this page](./VerifyScriptOnCardanoscan.md).
+Detailed instructions on how to verify your smart contract script on Cardanoscan can be found on [this page](./explorers/README.md).
 
 ### Cexplorer
 
@@ -32,4 +32,4 @@ Detailed instructions on how to verify your smart contract script on Cardanoscan
 
 Cexplorer serves as a valuable resource within the Cardano ecosystem, offering comprehensive blockchain exploration and analytics capabilities. Besides everything else, Cexplorer supports smart contract verification. Developers can submit their Plutus scripts for validation to display additional information about their contracts on Cexplorer. Verified smart contracts not only foster user confidence but also encourage wider adoption by showcasing their trustworthiness and dependability.
 
-Detailed instructions on how to verify your smart contract script on Cexplorer can be found on [this page](./VerifyScriptOnCexplorer.md).
+Detailed instructions on how to verify your smart contract script on Cexplorer can be found on [this page](./explorers/README.md).
