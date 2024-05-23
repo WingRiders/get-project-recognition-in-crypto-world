@@ -33,3 +33,22 @@ Detailed instructions on how to verify your smart contract script on Cardanoscan
 Cexplorer serves as a valuable resource within the Cardano ecosystem, offering comprehensive blockchain exploration and analytics capabilities. Besides everything else, Cexplorer supports smart contract verification. Developers can submit their Plutus scripts for validation to display additional information about their contracts on Cexplorer. Verified smart contracts not only foster user confidence but also encourage wider adoption by showcasing their trustworthiness and dependability.
 
 Detailed instructions on how to verify your smart contract script on Cexplorer can be found on [this page](./explorers/README.md).
+
+## Prominent Cardano DEXes
+
+Decentralized exchanges (DEXs) represent a vital component of the Cardano ecosystem. The importance of decentralized exchanges in providing liquidity and enabling seamless asset swaps cannot be overstated.
+
+In this guide, we will look at the most famous Cardano DEXes:
+
+- WingRiders
+- Minswap
+- MuesliSwap
+- SundaeSwap
+- VyFinance
+- Spectrum Finance
+
+The listed DEXes boast a vast array of crypto projects and tokens within their platforms, offering users a diverse selection of trading and investment opportunities. With a significant number of users engaging with these platforms daily, whether for token swaps, exploring new projects, or participating in liquidity provision, they serve as hubs of activity within the Cardano ecosystem.
+
+By integrating your crypto project with these prominent DEXes, you unlock avenues to enhance the recognition, accessibility, and reliability of your project. This integration not only exposes your project to a wider audience but also establishes credibility within the community, fostering trust and confidence among potential users and investors. Additionally, by leveraging the established infrastructure and user base of these DEXes, your project gains access to a ready-made marketplace, streamlining the process of token distribution and adoption. In essence, integrating with prominent DEXes serves as a strategic move to solidify your project's presence within the Cardano ecosystem and position it for long-term success.
+
+To learn more about opening pools and the token verification process on prominent Cardano DEXes, check out [this page](./dexes/README.md).

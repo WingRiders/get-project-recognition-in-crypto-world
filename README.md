@@ -22,8 +22,7 @@ The project is centered around two main goals:
     - [Introduction](./registries-and-dexes/README.md)
     - [Adding token metadata to the Cardano metadata registry](./registries-and-dexes/cardano-token-registry/README.md)
     - [Plutus script verification on Cardanoscan and Cexplorer](./registries-and-dexes/explorers/README.md)
-    - [Opening pools and farms on prominent Cardano DEXes](./registries-and-dexes/OpenPoolsAndFarmsOnCardanoDEXes.md)
-    - [Verifying tokens on prominent Cardano DEXes](./registries-and-dexes/VerifyTokenOnCardanoDEXes.md)
+    - [Opening pools/farms and verifying tokens on prominent Cardano DEXes](./registries-and-dexes/dexes/README.md)
 
 ## Development Roadmap
 - [x] Guide for registering crypto projects on tier 1 crypto platforms
@@ -31,13 +30,13 @@ The project is centered around two main goals:
   - [x] CoinMarketCap registration
   - [x] CoinGecko registration
   - [x] DeFiLlama registration
-- [ ] Guide for Cardano-specific registries and integrations with prominent Cardano DEXes
+- [x] Guide for Cardano-specific registries and integrations with prominent Cardano DEXes
   - [x] Introduction
   - [x] Adding token metadata to the Cardano metadata registry
   - [x] Plutus script verification on Cardanoscan
   - [x] Plutus script verification on Cexplorer
-  - [ ] Opening pools and farms on prominent Cardano DEXes
-  - [ ] Verifying tokens on prominent Cardano DEXes
+  - [x] Opening pools and farms on prominent Cardano DEXes
+  - [x] Verifying tokens on prominent Cardano DEXes
 - [ ] Guide Publishing and Marketing
 - [ ] Community Engagement and Feedback Integration
 
