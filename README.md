@@ -4,6 +4,8 @@
 
 Comprehensive public guide to help brand new protocols and DApps or utility tokens to become recognized, legitimized, and listed on tier 1 platforms.
 
+After reading this guide, please take a few minutes to complete our survey by [clicking here](https://forms.gle/2Ce2rFzrJpXdkuEK8). Your feedback is invaluable and will help us make the guide even better. Thank you.
+
 ## Description
 
 In this project, you can find guides that will help you register the protocols, tokens, or DApps on essential tier 1 platforms of the crypto space. We tried to create detailed and comprehensive guides in a format that is easy to follow and understand.
