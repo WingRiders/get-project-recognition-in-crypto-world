@@ -34,6 +34,25 @@ Opening pools on various Cardano DEXes is a fairly simple and straightforward pr
 
 In this section, we described the general instructions for creating a liquidity pool. However, this process may vary slightly between platforms. We recommend checking out [the external resources and official guides section](#external-resources-and-official-guides) to access up-to-date and detailed guides for each DEX.
 
+## Opening farms on Cardano DEXes
+
+Farms on decentralized exchanges allow liquidity providers to stake their liquidity tokens and earn additional rewards, typically in the form of native tokens or governance tokens. Farms encourage liquidity provision, incentivizing users to provide deeper liquidity to specific trading pairs, which boosts both volume and visibility for projects. 
+
+Opening farms is a good strategy for new projects to achieve several important objectives:
+
+- **Increase Liquidity:** Farms incentivize users to provide liquidity by offering attractive rewards. Higher liquidity results in smoother trading experiences for users, reducing slippage and making your token more attractive to trade.
+- **Boost Token Utility:** By allowing users to earn rewards in your project’s token, farms enhance the utility of your token. This can increase its demand, improve price stability, and incentivize holding.
+- **Attract and Engage Users:** Farms often act as a gateway for attracting new users to your project. As users stake LP tokens and earn rewards, they become more invested in your ecosystem. This can lead to increased participation in governance, staking, or other aspects of your project.
+- **Improve Visibility:** Listing a farm on a prominent Cardano DEX can significantly boost your project’s exposure. Projects with active farms are more likely to be noticed by the community and featured in DEX marketing campaigns.
+
+All prominent Cardano DEXes offer the opportunity to open farms, each with its own unique features and incentives. Usually, to open a farm, you need to contact the DEX's support team and provide key information about your project. This typically includes:
+- token pairs for the farm
+- reward structure
+- duration of the farm
+- token allocation (for example, how many tokens you’ll distribute to liquidity providers as rewards).
+
+Each DEX has its own requirements for opening a farm. For more information, check [the external resources and official guides section](#external-resources-and-official-guides), and reach out DEX's support teams.
+
 ## External resources and official guides
 
 In this section, we provide you with useful links to the DEXes resources and their official guides which help you to open a liquidity pool or launch and verify your token. Official guides, authored by DEX teams, provide accurate, up-to-date information aligned with the platform's features, ensuring credibility and comprehensiveness. We highly recommend checking them out.
